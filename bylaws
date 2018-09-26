@@ -1,22 +1,26 @@
+TODO: Define good standing
+TODO: fix quorum
+TODO: Fix voting ties
+
 =Bylaws of i3 Detroit=
 ==Definitions==
-* Notice: All notice and official communication is done by email unless otherwise specified.
-* Distribution to the membership: All membership information will be distributed to the member mailing list. TODO: name this, and make it consistent
-* Regular Meetings: Once a month.
-* Board of Directors: Group of people elected to run i3Detroit
-* Board Member: Member of the Board of Directors
+* Notice: Official communication is done by email unless otherwise specified.
+* Announcements: An announcement to the entire membership will be distributed to the member mailing list.
+* Regular Meetings: Once a month
+* Board of Directors: Governing body of i3Detroit as elected by members
+* Director: Member of the Board of Directors
 
 ==Axioms==
 i3 follows all of the laws of Physics and the Federal, State, and Local governments. Any rules here are superseded by those when in conflict.
 
 
-==Article 1. Offices==
-===Section 1. Principal Office===
+==Article 1. Location==
 
+===Section 1. Location===
 i3Detroit is located at 1481 A Wordsworth Street, Ferndale, Oakland County, State of Michigan, 48220.
 
-===Section 2. Change of Address===
-TODO: Proposed change, don't have the ability to change address without a board vote, because there is no benefit.
+===Section 2. Official Notices===
+The registered agent is the President of i3Detroit located at the above address.
 
 ==Article 2. Nonprofit Purposes==
 
@@ -42,29 +46,31 @@ The specific objectives and purposes of this corporation shall be to:
 i3Detroit shall have only one class of members with all the same rights.
 No member shall hold more than one membership in i3Detroit.
 
-===Section 3. Qualifications of Members===
+===Section 2. Qualifications of Members===
 The qualifications for membership in this corporation are as follows:
 
 # Members shall be over 18
-# Members shall pay membership dues and other fees as set by the Board of Directors.
 # Members shall have submitted a membership application
+# Members shall be in good standing in relationship to i3Detroit
 
-===Section 5. Fees and Dues===
-The monthly dues payable to i3Detroit by members shall be $49.00.
+===Section 3. Responsibilities of Members===
+====Update their email====
+i3Detroit members shall keep a valid email address on file with i3Detroit.
+
+====Pay Dues====
+The dues payable to i3Detroit by members shall be $49.00 per month, or $539 per year.
 Dues are payable when billed by the treasurer.
 Dues for partial months may be prorated at the discretion of the treasurer.
 The Board of Directors may establish a scholarship program and reduce or waive these dues for some members.
-Application to any scholarship programs established shall be open to all members.
 
 ===Section 6. Number Of Members===
 There is no limit on the number of members i3Detroit may admit.
 
-===Section 7. Membership Book===
-i3Detroit shall keep membership data containing the name, phone number, and email address of each member.
-Termination of the membership of any member shall be recorded, together with the date of termination of such membership.
+===Section 7. Membership Data===
+i3Detroit shall keep membership data containing the name, phone number, email address, and records of standing of each member.
 
-===Section 8. Nonliability of Members, Officers, and Board Members Boilerplate===
-A member, officers, or Board Members of this corporation is not, as an individual, personally liable for the debts, liabilities, or obligations of the i3Detroit corporation.
+===Section 8. Nonliability of Members, Officers, and Directors Boilerplate===
+A member, officers, or Directors of this corporation is not, as an individual, personally liable for the debts, liabilities, or obligations of the i3Detroit corporation.
 The Board of Directors and other officers of i3Detroit shall be indemnified by i3Detroit to the fullest extent permissible under the laws of this state.
 
 
@@ -75,62 +81,56 @@ All rights of membership cease upon the member's death.
 ===Section 10. Termination of Membership===
 The membership of a member shall terminate upon the occurrence of any of the following events:
 
-# The member says they want to end the membership to the secretary
+# The member provides Notice to the President or Secretary.
 # They fail to pay dues, with such termination to be effective thirty (30) days after a written notification of delinquency is emailed to such member by the treasurer of i3Detroit.
-# The member gets banned from membership by vote of the Board of Directors
+# The member is suspended or banned by vote of the Board of Directors
 
 All rights of a member in i3Detroit shall cease on termination of membership as herein provided.
 
 ==Article 4. Member Meetings==
 ===Section 1. Place of Meetings===
-Member meetings shall be held at i3Detroit.
+Member meetings shall be held at the Registered Address of i3Detroit.
 
-===Section 3. Special Meetings of Members===
-Special meetings of the members can be called by any member of the Board of Directors, or the President of i3Detroit.
+===Section 2. Special Meetings of Members===
+Special meetings of the members may be called by any Director, or the President of i3Detroit.
 
-===Section 4. Notice of Meetings===
+===Section 3. Notice of Meetings===
 The following provisions shall govern the giving of notice for member meetings:
 
-# '''Regular Member Meetings:''' No notice need be given of any regular member meeting.
-# '''Special Member Meetings:''' Official notice shall be given at least 7 days prior by the Secretary of i3Detroit to each member.
-
-===Section 5. Quorum for Meetings===
-Quorum: Anybody present at a regular meeting, or 1/4 of the voting members at a special meeting.
-No business can be conducted without quorum.
-
-===Section 7. Voting Rights===
-Each member is entitled to one vote on each matter submitted to a vote by the members.
-Voting at duly held meetings shall be by show of hands or voice vote.
-Majority vote wins, unless otherwise specified.
-Election of the Board of Directors shall be by written ballot.
-
-===Section 8. Action by Written Ballot===
-TODO: go over this
-Anything that can be voted on at a member meeting can be voted on online.
-
-The ballot shall:
-# set forth the proposed action
-# provide an opportunity to specify approval or disapproval of each proposal
-# indicate the number of responses needed to meet the quorum requirement
-# specify the date by which the ballot must be received by i3Detroit in order to be counted
-
-Approval of the action by written ballot must meet the following criteria:
-# Proper official notification of the ballot must be made
-# Voting must remain open to all members for at least 7 days
-# The total number of votes cast must be at least 1/4 of the voting members of i3Detroit
-# The majority of votes cast must be in approval of the action
-
+# '''Regular Member Meetings:''' An Announcement must be made if the membership votes to change the time of Regular Member Meetings.
+# '''Special Member Meetings:''' An Announcement shall be given at least 7 days prior.
 
 ===Section 9. Conduct of Meetings===
 Meetings will be presided over by the President, the Vice President, or other officers of i3Detroit.
-The Secretary or another member appointed at the time of the meeting shall take minutes, and distribute them to the membership.
+The Secretary or another member appointed at the time of the meeting shall take minutes, and Announce them to the membership.
 
-==Article 5. Board Members==
+===Section 4. Quorum for Meetings===
+Quorum: Anybody present at a regular meeting, or 1/4 of the voting members at a special meeting.
+No business can be conducted without quorum.
+
+===Section 5. Voting Rights===
+Every member gets one vote.
+Voting at official meetings shall be by show of hands or voice vote as determined by the meeting chairperson.
+Majority vote wins, unless otherwise specified.
+Election of the Board of Directors shall be by written ballot.
+
+===Section 6. Action by Written Ballot===
+Anything that can be voted on at a member meeting can be voted on online.
+
+The ballot shall:
+# Describe the voting methodology in complete detail
+# Indicate the number of responses needed to meet the quorum requirement
+# Specify an end date at least 7 days in the future
+# Be distributed by official Announcement at least 7 days prior to the end
+
+For an action to pass that is not an election for the Board of Directors, at least 1/4 of all members of i3Detroit must respond.
+
+==Article 5. Board of Directors==
 The same as every other member except as differentiated below:
 
 ===Section 1. Number===
-i3Detroit shall have between five (5) and eleven (11) Board Members and collectively they shall be known as the Board of Directors.
-The exact number of Board Members shall be set by a resolution adopted by the Board of Directors.
+i3Detroit shall have between five (5) and eleven (11) Directors and collectively they shall be known as the Board of Directors.
+The exact number of Directors shall be set by a resolution adopted by the Board of Directors.
 
 ===Section 3. Powers===
 All corporate power rests with the Board of Directors, and the Board of Directors controls all day-to-day activities.
@@ -143,7 +143,7 @@ It shall be the duty of the Board of Directors to:
 # Ensure i3Detroit follows all local laws and regulations, including periodic reporting
 
 ===Section 5. Term of Office===
-Board Members shall serve for a term of 1 year, or until a successor is elected.
+Directors shall serve for a term of 1 year, or until a successor is elected.
 
 ===Section 6. Compensation===
 None.
@@ -169,9 +169,9 @@ Minutes shall be recorded of all Board of Directors meetings, and provided to th
 Vacancies on the Board of Directors will be filled by appointment and vote of the remaining members of the Board of Directors.
 A member elected to fill a vacancy on the Board of Directors shall hold office until the next election of the Board of Directors or until their death, resignation, or removal from office.
 
-Board Members may resign by giving written notice to the President of the Board of Directors.
+Directors may resign by giving written notice to the President of the Board of Directors.
 
-Board Members may be removed from office by a vote of the Board of Directors or the membership.
+Directors may be removed from office by a vote of the Board of Directors or the membership.
 
 ===Section 17. Insurance For Corporate Agents===
 Except as may be otherwise provided under provisions of law, the Board of Directors may adopt a resolution authorizing the purchase and maintenance of insurance on behalf of any agent of i3Detroit (including a director, officer, employee, or other agent of i3Detroit) against liabilities asserted against or incurred by the agent in such capacity or arising out of the agent's status as such, whether or not i3Detroit would have the power to indemnify the agent against such liability under the articles of incorporation, these bylaws, or provisions of law.
@@ -243,7 +243,7 @@ The Treasurer shall:
 TODO: Do we need committees in the bylaws?
 
 ===Section 1. Executive Committee===
-The Board of Directors may, by a majority vote of its members, designate an executive committee consisting of two (2) Board Members and may delegate to such committee the powers and authority of the board in the management of the business and affairs of i3Detroit, to the extent permitted, and except as may otherwise be provided, by provisions of law.
+The Board of Directors may, by a majority vote of its members, designate an executive committee consisting of two (2) Directors and may delegate to such committee the powers and authority of the board in the management of the business and affairs of i3Detroit, to the extent permitted, and except as may otherwise be provided, by provisions of law.
 
 By a majority vote of its members, the board may at any time revoke or modify any or all of the executive committee authority so delegated, increase or decrease but not below two (2) the number of the members of the executive committee, and fill vacancies on the executive committee from the members of the board.
 The executive committee shall keep regular minutes of its proceedings, cause them to be filed with the corporate records, and report the same to the board from time to time as the board may require.
